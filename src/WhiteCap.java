@@ -2,7 +2,7 @@ public class WhiteCap extends Cap {
 
     @Override
     public float price() {
-        return 25.0f;
+        return 125.0f;
     }
 
     @Override

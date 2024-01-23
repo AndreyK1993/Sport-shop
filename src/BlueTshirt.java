@@ -2,7 +2,7 @@ public class BlueTshirt extends tShirt {
 
     @Override
     public float price() {
-        return 35.0f;
+        return 135.0f;
     }
 
     @Override
